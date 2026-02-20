@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ボクの文学",
+  "base_artist": "おもかげ",
+  "createdAt": "2026-02-20T12:40:52.188605Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ボクの文学",
+      "artist": "おもかげ",
+      "has_synced": false,
+      "path": "select/pl_01_ボクの文学_おもかげ.txt"
+    }
+  ]
+}
